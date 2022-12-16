@@ -1,4 +1,4 @@
 hello-world-configmap:
-    replicaCount: 60
+    replicaCount: 5
     app:
       content: "Fox wild!"

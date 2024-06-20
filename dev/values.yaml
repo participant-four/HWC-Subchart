@@ -1,4 +1,4 @@
 hello-world-configmap:
-    replicaCount: 0
+    replicaCount: 1
     app:
       content: "Solcon rulezz!"

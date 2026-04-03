@@ -1,4 +1,4 @@
 hello-world-configmap:
-    replicaCount: 9
+    replicaCount: 3
     app:
-      content: "its a devssss world!!!!!!!!!"
+      content: "its a devops/platform engineering world!!!!!!!!!"
